@@ -109,7 +109,7 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -136,7 +136,8 @@ p {
     color: #ffffff;
 }
 
-.search-engine-optimization img {
+/* Changed from . class to id # to support proper link function on webpage when clicked */
+#search-engine-optimization img {
     max-height: 200px;
 }
 
